@@ -1,1 +1,15 @@
 # React-CMS
+- CRA
+- Components
+- Routing using React Router DOM
+- Passing Props
+- State and component lifecycle
+- BootStrap, ReactStrap
+- Searching Through data
+- Hooks 
+    - useState
+    - useEffect
+    - useRef
+- Custom Hooks
+- Events
+- Firebase
