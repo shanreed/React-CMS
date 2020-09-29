@@ -1,0 +1,24 @@
+/* APP */
+
+
+
+
+/* MENU */
+.menu {
+  background: black;
+  color: white;
+  padding: 2rem;
+}
+
+.menu ul {
+  display: flex;
+  justify-content: space-between;
+  width: 30%;
+  font-size: 2rem;
+}
+
+
+
+
+
+/* CustomerCard */
